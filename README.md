@@ -1,7 +1,7 @@
 <h1 align="center">Howdy! I'm James and welcome to my GitHub.</h1>
 <h3 align="center">I'm a Dallas-based software engineer producing full-stack JavaScript applications.</h3>
 
-- 🚧 I’m currently working on [tarot-api](https://github.com/Jameslo599/tarot-api)
+- 🚧 I’m currently working on [becoming AWS Certified](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
 - ⚗️ I'm currently training better code on [CodeWars](https://www.codewars.com/users/Jameslo599)
 
