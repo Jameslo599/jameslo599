@@ -3,9 +3,9 @@
 
 - 🚧 I’m currently working on becoming [AWS Certified](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
-- ⚗️ I'm currently training better code on [CodeWars](https://www.codewars.com/users/Jameslo599)
+- ⚗️ I'm currently training data structures and algorithms on [Leetcode]
 
-- 🔭 I’m currently focusing on **TypeScript**
+- 🔭 I’m currently focusing on **TypeScript** and **Next.js**
 
 - 👨‍💻 View my live projects at [https://www.jameshlo.com/](https://www.jameshlo.com/)
 
