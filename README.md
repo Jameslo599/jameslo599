@@ -1,7 +1,7 @@
 <h1 align="center">Howdy! I'm James and welcome to my GitHub.</h1>
 <h3 align="center">I'm a Dallas-based software engineer producing full-stack JavaScript applications.</h3>
 
-- 🚧 I’m currently working on becoming [AWS Certified](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+- 🚧 I'm certified in AWS Solutions Architect Associate
 
 - ⚗️ I'm currently training data structures and algorithms on [Leetcode]
 
