@@ -3,7 +3,7 @@
 
 - ✅ I'm certified in AWS Solutions Architect Associate
 
-- ⚗️ I'm currently training data structures and algorithms on [Leetcode]
+- ⚗️ I'm currently getting my Master's in Computer Science at Georgia Tech
 
 - 🔭 I’m currently focusing on **TypeScript** and **Next.js**
 
