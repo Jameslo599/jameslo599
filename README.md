@@ -9,7 +9,7 @@
 
 - 👨‍💻 View my live projects at [https://www.jameshlo.com/](https://www.jameshlo.com/)
 
-- 💬 Ask me about **cooking, meditation and tech**
+- 💬 Ask me about **websites, business and tech**
 
 - 📫 How to reach me **jamesloswe@jameshlo.com**
 
