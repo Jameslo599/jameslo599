@@ -3,17 +3,15 @@
 
 - ✅ I'm certified in AWS Solutions Architect Associate
 
-- ⚗️ I'm currently getting my Master's in Computer Science at Georgia Tech
+- ⚗️ I'm currently getting my Master's in AI/ML at Western Governors University
 
-- 🔭 I’m currently focusing on **TypeScript** and **Next.js**
+- 🔭 I’m currently focusing on **Artificial Intelligence (AI)** and **Machine Learning (ML)**
 
 - 👨‍💻 View my live projects at [https://www.jameshlo.com/](https://www.jameshlo.com/)
 
 - 💬 Ask me about **cooking, meditation and tech**
 
-- 📫 How to reach me **jameslo599@gmail.com**
-
-- ⚡ Fun fact **My pho is top-tier**
+- 📫 How to reach me **jamesloswe@jameshlo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +19,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="80" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="80" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="80" width="80"/>
