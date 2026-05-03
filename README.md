@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently focusing on **Artificial Intelligence (AI)** and **Machine Learning (ML)**
 
-- 👨‍💻 View my live projects at [https://www.jameshlo.com/](https://www.jameshlo.com/)
-
 - 💬 Ask me about **websites, business and tech**
 
-- 📫 How to reach me **jamesloswe@jameshlo.com**
+- 📫 How to reach me **contact.jameshlo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
